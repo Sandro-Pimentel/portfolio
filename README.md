@@ -13,7 +13,7 @@ Ainda procuro uma primeira oportunidade de estágio,
 
 ## Meus Principais Conhecimentos
 
-Minha área de melhor domínio é o back-end, porém pretendo trabalhar como desenvolvedor full-stack, por esse motivo estou desenvolvendo meus conhecimentos front-end, meus conhecimentos que de destacam são:
+Minha área de melhor domínio é o back-end, porém pretendo trabalhar como desenvolvedor full-stack, por esse motivo estou desenvolvendo meus conhecimentos front-end, meus conhecimentos que se destacam são:
 
 - Java
 - Spring Framework
@@ -28,5 +28,36 @@ Minha área de melhor domínio é o back-end, porém pretendo trabalhar como des
 
 ### PRIMEIRO SEMESTRE (2020-1)
 
-O projeto do primeiro semestre teve como empresa parceira a Fatec. Os requisitos da empresa foram passados pelo professor  que atuou como cliente final.
-O problema
+O projeto do primeiro semestre teve como empresa parceira a Fatec. Os requisitos da empresa foram passados pelo professor Antonio Egydio que atuou como cliente final.
+O problema apresentado dificuldade de entendimento dos alunos da fatec, no que se diz respeito à metodologia scrum, principalmente pela falta de exemplos práticos.
+Como solução foi desenvolvido uma aplicação web que ensine a metodologia scrum de maneira intuitiva, com vídeos e exemplos práticos.
+
+[GitHub - Scrum Academy](https://github.com/Sandro-Pimentel/AReS)
+
+
+#### Tecnologias Utilizadas
+
+As seguintes tecnologias foram utilizadas nesse projeto:
+
+- HTML - Linguagem de marcação para estruturar a aplicação;
+- CSS - Linguagem de marcação para estilizar o aplicação;
+- Python - Linguagem de programação utilizada tanto no back-end quanto no front-end;
+- Flask - Framework baseado em python para trabalhar com Python para web, utilizado para a criação das páginas do front-end;
+- Javascript - Linguagem de programação utilizada no front-end.
+
+#### Contribuições Pessoais
+
+Nesse projeto atuei como Scrum Master e contrui a estrutura das páginas principais de conteúdo, além de ter implementado a contagem de acertos e validação de exames nas páginas de exames. Também implementei o sistema de média coletiva e média das funções na página sistema de avaliação.
+
+#### Hard Skills
+
+Exercitei as seguintes hard skills durante esse projeto:
+
+- HTML - Uso com autonomia;
+- CSS - Uso com autonomia;
+- Python - Uso com autonomia;
+- Javascript - Uso com auxílio.
+
+#### Soft Skills
+
+Durante esse projeto tive que usar de resiliência e proatividade para conseguir realizar as entregas, pois no começo poucos da equipe estavam comprometidos com o projeto, além de persistência, pois houve grande dificuldade na criação das telas de exame, principalmente na lógica de contabilizar os acertos, o que resultou na ausência desse item do backlog para a terceira sprint, porém com o tempo da quarta sprint foi possível direcionar o foco maior a essa tarefa e concluí-la antes que a última sprint acabasse.
