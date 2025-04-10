@@ -50,7 +50,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 
 #### Contribuições Pessoais
 
-Nesse projeto atuei como Scrum Master e contrui a estrutura das páginas principais de conteúdo, além de ter implementado a contagem de acertos e validação de exames nas páginas de exames. Também implementei o sistema de média coletiva e média das funções na página sistema de avaliação.
+Nesse projeto atuei como Scrum Master e desenvolvi a estrutura das páginas principais de conteúdo, além de ter implementado a contagem de acertos e validação de exames nas páginas de exames. Também implementei o sistema de média coletiva e média das funções na página sistema de avaliação.
 
 #### Hard Skills
 
