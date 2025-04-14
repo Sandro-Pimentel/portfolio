@@ -31,9 +31,13 @@ Minha área de melhor domínio é o back-end, porém pretendo trabalhar como des
 
 ### PRIMEIRO SEMESTRE (2020-1)
 
-O projeto do primeiro semestre teve como empresa parceira a Fatec. Os requisitos da empresa foram passados pelo professor Antonio Egydio que atuou como cliente final.
-O problema apresentado dificuldade de entendimento dos alunos da fatec, no que se diz respeito à metodologia scrum, principalmente pela falta de exemplos práticos.
-Como solução foi desenvolvido uma aplicação web que ensine a metodologia scrum de maneira intuitiva, com vídeos e exemplos práticos.
+O projeto desenvolvido no primeiro semestre do curso teve como empresa parceira a própria Fatec. Os requisitos da empresa foram passados pelo professor Antonio Egydio que atuou como cliente final.
+
+O problema apresentado foi a dificuldade de entendimento dos alunos da fatec, no que se diz respeito à metodologia scrum, principalmente pela falta de exemplos práticos.
+
+Como solução foi desenvolvida uma aplicação web que ensine a metodologia scrum de maneira intuitiva, com vídeos e exemplos práticos, sem deixar de lado o conteúdo escrito para os alunos que aprendem melhor por meio da leitura.
+
+![Projeto rodando](https://github.com/user-attachments/assets/9b6e582d-7d4d-475f-a7fa-6b3673eee165)
 
 [GitHub - Scrum Academy](https://github.com/Sandro-Pimentel/AReS)
 
