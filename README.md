@@ -29,7 +29,7 @@ Minha área de melhor domínio é o back-end, porém pretendo trabalhar como des
   
 ## Meus Projetos
 
-### PRIMEIRO SEMESTRE (2020-1)
+### PRIMEIRO SEMESTRE (2023-1)
 
 **Empresa Parceira:** O projeto desenvolvido no primeiro semestre do curso teve como empresa parceira a própria Fatec. Os requisitos da empresa foram passados pelo professor Antonio Egydio que atuou como cliente final.
 
@@ -54,7 +54,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 
 #### Contribuições Pessoais
 
-Nesse projeto atuei como Scrum Master e desenvolvi a estrutura das páginas principais de conteúdo, além de ter implementado a contagem de acertos e validação de exames nas páginas de exames. Também implementei o sistema de média coletiva e média das funções na página sistema de avaliação.
+Nesse projeto, atuei como Scrum Master, realizando daily scrums semanalmente para o acompanhamento das tarefas dos demais integrantes e auxiliando no fluxo de páginas percorridas pelo usuário. Também auxiliei no desenvolvimento, trabalhando na estrutura das páginas principais de conteúdo, utilizando as linguagens de marcação HTML e CSS. Além disso, implementei a contagem de acertos e a validação nas páginas de exames, bem como o sistema de média coletiva e de função na página “Sistema de Avaliação”, utilizando o framework Flask e a linguagem de programação Python.
 
 #### Hard Skills
 
@@ -67,4 +67,105 @@ Exercitei as seguintes hard skills durante esse projeto:
 
 #### Soft Skills
 
-Durante esse projeto tive que usar de resiliência e proatividade para conseguir realizar as entregas, pois no começo poucos da equipe estavam comprometidos com o projeto, além de persistência, pois houve grande dificuldade na criação das telas de exame, principalmente na lógica de contabilizar os acertos, o que resultou na ausência desse item do backlog para a terceira sprint, porém com o tempo da quarta sprint foi possível direcionar o foco maior a essa tarefa e concluí-la antes que a última sprint acabasse.
+Durante esse projeto, tive que usar de resiliência e proatividade para conseguir realizar as entregas, pois, no começo, poucos da equipe estavam comprometidos com o projeto. Além disso, foi necessário ter persistência, pois houve grande dificuldade na criação das telas de exame — principalmente na lógica de contabilizar os acertos —, o que resultou na ausência desse item do backlog para a terceira sprint. Porém, com o tempo da quarta sprint, foi possível direcionar um foco maior a essa tarefa e concluí-la antes que a última sprint acabasse.
+
+### SEGUNDO SEMESTRE (2023-2)
+
+**Empresa Parceira:** O projeto desenvolvido no segundo semestre do curso teve como empresa parceira a própria Fatec. Os requisitos da empresa foram passados pelo professor Giuliano Bertoti que atuou como cliente final.
+
+**Problema:** O problema apresentado foi que apesar da inteligência artificial ser capaz de responder coisas relacionadas a assuntos gerais, ela não era capaz de responder perguntas em contextos mais específicos, como informações contidas em textos.
+
+**Solução:** Como solução foi desenvolvido um chat-bot que fosse capaz de responder perguntas extraindo informações de textos fornecidos pelo usuário a ele, fornecendo agilidade na busca de informações em documentos extensos.
+
+![Projeto rodando]()
+
+[GitHub - ChatBot Lotus](https://github.com/VituuSaborito/Lotus)
+
+
+#### Tecnologias Utilizadas
+
+As seguintes tecnologias foram utilizadas nesse projeto:
+
+- Java - Linguagem de Programação utilizada em todo o projeto;
+- Java Swing - Biblioteca Java utilizada para desenvolvimento em desktop;
+- Graddle - Sistema de automação de compilação de código aberto utilizado para realizar importações de pacotes externos;
+- MySQL - SGBD utilizado para o desenvolvimento do banco de dados da aplicação.
+
+#### Contribuições Pessoais
+
+Nesse projeto, atuei no Dev Team, participando ativamente das reuniões com ideias e desenvolvendo o frontend e o backend do projeto, com maior foco no backend. No frontend desenvolvi as telas de login, registro e inserção de arquivo com o Java Swing. Já no backend, fui responsável pela conexão da aplicação com o bot Hugging Face e pela a implementação das funções de carregamento e inserção de arquivos nos formatos TXT, PDF e DOC.
+
+#### Hard Skills
+
+Exercitei as seguintes hard skills durante esse projeto:
+
+- Java - Uso com autonomia;
+- Java Swing - Uso com autonomia;
+- Graddle - Uso com auxílio.
+
+#### Soft Skills
+
+Durante esse projeto, tive que usar de autonomia para realizar as tarefas, pois todas as ferramentas utilizadas nesse semestre eram novas para todos os integrantes. Portanto, foi necessário estudar por conta própria alguns conceitos de Java e da biblioteca Java Swing. Como resultado, boa parte das funções do backend já estava concluída ainda na primeira sprint. Além disso, precisei ser colaborativo para auxiliar os meus companheiros, que tiveram dificuldades em trabalhar com Java e Java Swing.
+
+### TERCEIRO SEMESTRE (2024-1)
+
+**Empresa Parceira:** 
+
+**Problema:**
+
+**Solução:**
+
+![Projeto rodando]()
+
+[GitHub - CodeLotus](https://github.com/Code-Lotus/api-3)
+
+
+#### Tecnologias Utilizadas
+
+#### Contribuições Pessoais
+
+#### Hard Skills
+
+#### Soft Skills
+
+### QUARTO SEMESTRE (2024-2)
+
+**Empresa Parceira:** 
+
+**Problema:**
+
+**Solução:**
+
+![Projeto rodando]()
+
+[GitHub - WeCollab](https://github.com/Byte-Boost/WeCollab)
+
+
+#### Tecnologias Utilizadas
+
+#### Contribuições Pessoais
+
+#### Hard Skills
+
+#### Soft Skills
+
+### QUINTO SEMESTRE (2025-1)
+
+**Empresa Parceira:** 
+
+**Problema:**
+
+**Solução:**
+
+![Projeto rodando]()
+
+[GitHub - ExpenseFlow](https://github.com/Byte-Boost/ExpenseFlow)
+
+
+#### Tecnologias Utilizadas
+
+#### Contribuições Pessoais
+
+#### Hard Skills
+
+#### Soft Skills
