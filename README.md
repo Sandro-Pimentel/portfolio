@@ -77,7 +77,6 @@ Durante esse projeto, tive que usar de resiliência e proatividade para consegui
 
 **Solução:** Como solução foi desenvolvido um chat-bot que fosse capaz de responder perguntas extraindo informações de textos fornecidos pelo usuário a ele, fornecendo agilidade na busca de informações em documentos extensos.
 
-![Projeto rodando]()
 
 [GitHub - ChatBot Lotus](https://github.com/VituuSaborito/Lotus)
 
@@ -115,7 +114,6 @@ Durante esse projeto, tive que usar de autonomia para realizar as tarefas, pois 
 
 **Solução:**
 
-![Projeto rodando]()
 
 [GitHub - CodeLotus](https://github.com/Code-Lotus/api-3)
 
@@ -136,7 +134,6 @@ Durante esse projeto, tive que usar de autonomia para realizar as tarefas, pois 
 
 **Solução:**
 
-![Projeto rodando]()
 
 [GitHub - WeCollab](https://github.com/Byte-Boost/WeCollab)
 
@@ -157,7 +154,6 @@ Durante esse projeto, tive que usar de autonomia para realizar as tarefas, pois 
 
 **Solução:**
 
-![Projeto rodando]()
 
 [GitHub - ExpenseFlow](https://github.com/Byte-Boost/ExpenseFlow)
 
