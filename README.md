@@ -108,11 +108,11 @@ Durante esse projeto, tive que usar de autonomia para realizar as tarefas, pois 
 
 ### TERCEIRO SEMESTRE (2024-1)
 
-**Empresa Parceira:** 
+**Empresa Parceira:** O projeto desenvolvido no segundo semestre do curso teve como empresa parceira a Pro4Tech, que oferece serviços de tranformação digital e IA. Os requisitos foram apresentados no KickOff por uma pessoa da Pro4Tech. 
 
-**Problema:**
+**Problema:** O problema apresentado consistia na dificuldade de analizar e armazenar informações de planilhas Excel em um volume muito alto.
 
-**Solução:**
+**Solução:** A solução encontrada foi desenvolver um dashboard com uma interface que permite o envio de planilhas e a visualização em gráficos.
 
 
 [GitHub - CodeLotus](https://github.com/Code-Lotus/api-3)
@@ -120,19 +120,35 @@ Durante esse projeto, tive que usar de autonomia para realizar as tarefas, pois 
 
 #### Tecnologias Utilizadas
 
+As seguintes tecnologias foram utilizadas nesse projeto:
+
+- TypeScript - Linguagem de programação utilizada com tipagem estática;
+- React - Biblioteca para construção das interfaces, integrada ao TypeScript;
+- SCSS - Pré-processador CSS que facilita a organização e reutilização de estilos;
+- MySQL - SGBD utilizado para o desenvolvimento do banco de dados da aplicação.
+
 #### Contribuições Pessoais
+
+---
 
 #### Hard Skills
 
+Exercitei as seguintes hard skills durante esse projeto:
+
+- TypeScript - Uso com autonomia;
+- React - Uso com auxílio.
+
 #### Soft Skills
+
+---
 
 ### QUARTO SEMESTRE (2024-2)
 
-**Empresa Parceira:** 
+**Empresa Parceira:** O projeto desenvolvido no quarto semestre do curso teve como empresa parceira a JJM LOG, uma empresa especializada em transporte e logística integrada. Os requisitos foram apresentados no KickOff por uma pessoa da JJM LOG.
 
-**Problema:**
+**Problema:** O problema apresentado consistia em dificuldades no gerenciamento logístico, devido à falta de integração e à comunicação falha entre os setores.
 
-**Solução:**
+**Solução:** A solução desenvolvida foi uma plataforma integrada que centraliza funções essenciais da rotina empresarial e melhora a organização e comunicação interna.
 
 
 [GitHub - WeCollab](https://github.com/Byte-Boost/WeCollab)
@@ -140,15 +156,32 @@ Durante esse projeto, tive que usar de autonomia para realizar as tarefas, pois 
 
 #### Tecnologias Utilizadas
 
+As seguintes tecnologias foram utilizadas nesse projeto:
+
+- TypeScript - Linguagem de programação utilizada no frontend;
+- JavaScript - Linguagem de programação utilizada no backend;
+- Express.js -
+- Sequelize - 
+- React - Biblioteca para construção das interfaces, integrada ao TypeScript;
+- TailwindCSS - ;
+- MySQL - Banco de dados utilizado para guardar os logins e outros dados.
+
 #### Contribuições Pessoais
 
+---
+
 #### Hard Skills
+
+- TypeScript - Uso com autonomia;
+- JavaScript - Uso com autonomia;
+- React - Uso com autonomia;
+- Express.js - Uso com auxílio.
 
 #### Soft Skills
 
 ### QUINTO SEMESTRE (2025-1)
 
-**Empresa Parceira:** 
+**Empresa Parceira:** O projeto desenvolvido no quinto semestre do curso teve como empresa parceira a GSW, uma empresa especializada em desenvolvimento e implantação de soluções para empresas. Os requisitos foram apresentados no KickOff por uma pessoa da GSW.
 
 **Problema:**
 
