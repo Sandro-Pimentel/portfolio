@@ -160,10 +160,10 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 
 - TypeScript - Linguagem de programação utilizada no frontend;
 - JavaScript - Linguagem de programação utilizada no backend;
-- Express.js -
+- Express.js - Framework utilizado no back-end para estruturar as rotas e facilitar a criação da API REST;
 - Sequelize - 
 - React - Biblioteca para construção das interfaces, integrada ao TypeScript;
-- TailwindCSS - ;
+- TailwindCSS - 
 - MySQL - Banco de dados utilizado para guardar os logins e outros dados.
 
 #### Contribuições Pessoais
@@ -179,13 +179,15 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 
 #### Soft Skills
 
+---
+
 ### QUINTO SEMESTRE (2025-1)
 
 **Empresa Parceira:** O projeto desenvolvido no quinto semestre do curso teve como empresa parceira a GSW, uma empresa especializada em desenvolvimento e implantação de soluções para empresas. Os requisitos foram apresentados no KickOff por uma pessoa da GSW.
 
-**Problema:**
+**Problema:** O problema apresentado consistia na gestão ineficiente de reembolsos e despesas por conta de processos manuais e falta de integração.
 
-**Solução:**
+**Solução:** A solução desenvolvida foi uma aplicação móvel que permite os funcionários cadastrar despesas para receberem seus reembolsos.
 
 
 [GitHub - ExpenseFlow](https://github.com/Byte-Boost/ExpenseFlow)
@@ -193,8 +195,30 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 
 #### Tecnologias Utilizadas
 
+As seguintes tecnologias foram utilizadas nesse projeto:
+
+- TypeScript - Linguagem de programação utilizada no frontend;
+- JavaScript - Linguagem de programação utilizada no backend;
+- Express.js - Framework utilizado no back-end para estruturar as rotas e facilitar a criação da API REST;
+- Sequelize - 
+- React Native - Biblioteca para construção das interfaces mobile, integrada ao TypeScript;
+- TailwindCSS - Framework de marcação utilizada no frontend;
+- MySQL -
+- MongoDB - .
+
 #### Contribuições Pessoais
+
+---
 
 #### Hard Skills
 
+Exercitei as seguintes hard skills durante esse projeto:
+
+- TypeScript - Uso com autonomia;
+- JavaScript - Uso com autonomia;
+- React Native - Uso com autonomia;
+- Express.js - Uso com auxílio.
+
 #### Soft Skills
+
+---
