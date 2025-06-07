@@ -160,11 +160,11 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 
 - TypeScript - Linguagem de programação utilizada no frontend;
 - JavaScript - Linguagem de programação utilizada no backend;
-- Express.js - Framework utilizado no back-end para estruturar as rotas e facilitar a criação da API REST;
-- Sequelize - 
+- Express.js - Framework utilizado no backend para estruturar as rotas e facilitar a criação da API REST;
+- Sequelize - Ferramenta que auxilia na criação de aplicações com databases, usada no backend da aplicação;
 - React - Biblioteca para construção das interfaces, integrada ao TypeScript;
-- TailwindCSS - 
-- MySQL - Banco de dados utilizado para guardar os logins e outros dados.
+- TailwindCSS - Estrutura de código aberto sem classes CSS pré-definidas, usada para a estilização do site;
+- MySQL - SGBD utilizado para guardar os logins e outros dados.
 
 #### Contribuições Pessoais
 
@@ -200,11 +200,11 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 - TypeScript - Linguagem de programação utilizada no frontend;
 - JavaScript - Linguagem de programação utilizada no backend;
 - Express.js - Framework utilizado no back-end para estruturar as rotas e facilitar a criação da API REST;
-- Sequelize - 
+- Sequelize - Ferramenta que auxilia na criação de aplicações com databases, usada no backend da aplicação;
 - React Native - Biblioteca para construção das interfaces mobile, integrada ao TypeScript;
 - TailwindCSS - Framework de marcação utilizada no frontend;
-- MySQL -
-- MongoDB - .
+- MySQL - SGBD utilizado para guardar os logins e outros dados.
+- MongoDB - SGDB utilizado para armazenas as preferências do usuário.
 
 #### Contribuições Pessoais
 
