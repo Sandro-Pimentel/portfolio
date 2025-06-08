@@ -69,6 +69,8 @@ Exercitei as seguintes hard skills durante esse projeto:
 
 Durante esse projeto, tive que usar de resiliência e proatividade para conseguir realizar as entregas, pois, no começo, poucos da equipe estavam comprometidos com o projeto. Além disso, foi necessário ter persistência, pois houve grande dificuldade na criação das telas de exame — principalmente na lógica de contabilizar os acertos —, o que resultou na ausência desse item do backlog para a terceira sprint. Porém, com o tempo da quarta sprint, foi possível direcionar um foco maior a essa tarefa e concluí-la antes que a última sprint acabasse.
 
+<hr>
+
 ### SEGUNDO SEMESTRE (2023-2)
 
 **Empresa Parceira:** O projeto desenvolvido no segundo semestre do curso teve como empresa parceira a própria Fatec. Os requisitos da empresa foram passados pelo professor Giuliano Bertoti que atuou como cliente final.
@@ -105,6 +107,8 @@ Exercitei as seguintes hard skills durante esse projeto:
 #### Soft Skills
 
 Durante esse projeto, tive que usar de autonomia para realizar as tarefas, pois todas as ferramentas utilizadas nesse semestre eram novas para todos os integrantes. Portanto, foi necessário estudar por conta própria alguns conceitos de Java e da biblioteca Java Swing. Como resultado, boa parte das funções do backend já estava concluída ainda na primeira sprint. Além disso, precisei ser colaborativo para auxiliar os meus companheiros, que tiveram dificuldades em trabalhar com Java e Java Swing.
+
+<hr>
 
 ### TERCEIRO SEMESTRE (2024-1)
 
@@ -144,6 +148,8 @@ Exercitei as seguintes hard skills durante esse projeto:
 
 Durante esse projeto, quando foi percebido que um item do sprint backlog não poderia ser desenvolvido no prazo, tive que usar de comunicação para negociar com o cliente. Ao conduzir as conversas, usei de empatia para entender suas dores e absorver as informações necessárias para o desenvolvimento do produto. Além disso, utilizei de autonomia para realizar tanto minhas tarefas como PO quanto minhas contribuições funcionais no produto.
 
+<hr>
+
 ### QUARTO SEMESTRE (2024-2)
 
 **Empresa Parceira:** O projeto desenvolvido no quarto semestre do curso teve como empresa parceira a JJM LOG, uma empresa especializada em transporte e logística integrada. Os requisitos foram apresentados no KickOff por uma pessoa da JJM LOG.
@@ -182,6 +188,8 @@ Nesse projeto, atuei no Dev Team e desenvolvi apenas a rota de login no backend 
 #### Soft Skills
 
 Durante esse projeto, usei de proatividade para buscar conhecimento sempre que surgiam dúvidas no desenvolvimento. Também foi necessária comunicação para expressar minhas dúvidas aos integrantes do time e compreender as soluções apresentadas.
+
+<hr>
 
 ### QUINTO SEMESTRE (2025-1)
 
