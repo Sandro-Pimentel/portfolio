@@ -122,25 +122,27 @@ Durante esse projeto, tive que usar de autonomia para realizar as tarefas, pois 
 
 As seguintes tecnologias foram utilizadas nesse projeto:
 
-- TypeScript - Linguagem de programação utilizada com tipagem estática;
+- TypeScript - Linguagem de programação com tipagem estática;
+- Prisma - ORM para Node.js e TypeScript para o desenvolvimento backend;
 - React - Biblioteca para construção das interfaces, integrada ao TypeScript;
 - SCSS - Pré-processador CSS que facilita a organização e reutilização de estilos;
 - MySQL - SGBD utilizado para o desenvolvimento do banco de dados da aplicação.
 
 #### Contribuições Pessoais
 
----
+Nesse projeto, atuei como Product Owner sendo o responsável pela comunicação com o cliente via Slack, auxiliei minha equipe no entendimento do produto a ser desenvolvido, criei o backlog, as user stories e negociei com o cliente nos casos em que não foi possível realizar todos os itens do sprint backlog, além de contribuir tanto no backend, quanto no frontend. No backend desenvolvi a entidade que representa os dados do excel e partes do CRUD de vendas, como listagem e criação utilizando o Prisma com TypeScript. Já no frontend implementei algumas das principais ferramentas da aplicação, como a conexão entre backend e frontend, os gráficos e a funcionalidade de ingerir dados do excel para o database utilizando o React TypeScript.
 
 #### Hard Skills
 
 Exercitei as seguintes hard skills durante esse projeto:
 
 - TypeScript - Uso com autonomia;
+- Prisma - Uso com auxílio;
 - React - Uso com auxílio.
 
 #### Soft Skills
 
----
+Durante esse projeto, quando foi percebido que um item do sprint backlog não poderia ser desenvolvido no prazo, tive que usar de comunicação para negociar com o cliente. Ao conduzir as conversas, usei de empatia para entender suas dores e absorver as informações necessárias para o desenvolvimento do produto. Além disso, utilizei de autonomia para realizar tanto minhas tarefas como PO quanto minhas contribuições funcionais no produto.
 
 ### QUARTO SEMESTRE (2024-2)
 
@@ -168,7 +170,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 
 #### Contribuições Pessoais
 
----
+Nesse projeto, atuei no Dev Team e desenvolvi apenas a rota de login no backend com , pois meu foco foi o frontend, onde implementei algumas funções que consomem o backend, como buscar e editar usuários. Além disso, implementei os gráficos de setores e de colunas da aplicação.
 
 #### Hard Skills
 
@@ -179,7 +181,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 
 #### Soft Skills
 
----
+Durante esse projeto, usei de proatividade para buscar conhecimento sempre que surgiam dúvidas no desenvolvimento. Também foi necessária comunicação para expressar minhas dúvidas aos integrantes do time e compreender as soluções apresentadas.
 
 ### QUINTO SEMESTRE (2025-1)
 
@@ -201,6 +203,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 - JavaScript - Linguagem de programação utilizada no backend;
 - Express.js - Framework utilizado no back-end para estruturar as rotas e facilitar a criação da API REST;
 - Sequelize - Ferramenta que auxilia na criação de aplicações com databases, usada no backend da aplicação;
+- Swagger - Ferramenta que auxilia no desenvolvimento da documentação da API REST;
 - React Native - Biblioteca para construção das interfaces mobile, integrada ao TypeScript;
 - TailwindCSS - Framework de marcação utilizada no frontend;
 - MySQL - SGBD utilizado para guardar os logins e outros dados.
@@ -208,7 +211,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 
 #### Contribuições Pessoais
 
----
+Nesse projeto, atuei no Dev Team e desenvolvi a integração com o backend e as validações de reembolso no frontend. Já no backend, fui responsável pelo modelo e pelos endpoints dos projetos, utilizando Sequelize e Express.js, além de toda a documentação da API com o Swagger.
 
 #### Hard Skills
 
@@ -217,8 +220,10 @@ Exercitei as seguintes hard skills durante esse projeto:
 - TypeScript - Uso com autonomia;
 - JavaScript - Uso com autonomia;
 - React Native - Uso com autonomia;
-- Express.js - Uso com auxílio.
+- Sequelze - Uso com auxílio;
+- Express.js - Uso com auxílio;
+- Swagger - Uso com auxílio.
 
 #### Soft Skills
 
----
+Durante esse projeto, usei de autonomia nos casos em que não surgiam dúvidas, a fim de realizar minhas tarefas o mais rápido possível e auxiliar minha equipe. Já nos casos em que havia dúvidas, usei de proatividade para buscar conhecimento. Também foi necessária comunicação para expressar minhas dúvidas aos integrantes do time e compreender as soluções apresentadas.
