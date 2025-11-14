@@ -215,7 +215,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 - React Native - Biblioteca para construção das interfaces mobile, integrada ao TypeScript;
 - TailwindCSS - Framework de marcação utilizada no frontend;
 - MySQL - SGBD utilizado para guardar os logins e outros dados.
-- MongoDB - SGDB utilizado para armazenas as preferências do usuário.
+- MongoDB - SGDB utilizado para armazenar as preferências do usuário.
 
 #### Contribuições Pessoais
 
@@ -235,3 +235,46 @@ Exercitei as seguintes hard skills durante esse projeto:
 #### Soft Skills
 
 Durante esse projeto, usei de autonomia nos casos em que não surgiam dúvidas, a fim de realizar minhas tarefas o mais rápido possível e auxiliar minha equipe. Já nos casos em que havia dúvidas, usei de proatividade para buscar conhecimento. Também foi necessária comunicação para expressar minhas dúvidas aos integrantes do time e compreender as soluções apresentadas.
+
+<hr>
+
+### SEXTO SEMESTRE (2025-2)
+
+**Empresa Parceira:** O projeto desenvolvido no sexto semestre do curso teve como empresa parceira a Xertica, uma empresa especializada em . Os requisitos foram apresentados no KickOff por uma pessoa da Xertica.
+
+**Problema:** O problema apresentado .
+
+**Solução:** A solução desenvolvida foi .
+
+
+[GitHub - Junipy](https://github.com/Byte-Boost/Junipy)
+
+
+#### Tecnologias Utilizadas
+
+As seguintes tecnologias foram utilizadas nesse projeto:
+
+- TypeScript - Linguagem de programação utilizada no frontend;
+- Java - Linguagem de programação utilizada no backend;
+- Spring Boot - Framework utilizado no back-end para estruturar as rotas e facilitar a criação da API REST;
+- Python - ;
+- GoogleADK - ;
+- Vue.js - Biblioteca para construção das interfaces mobile, integrada ao TypeScript;
+- MongoDB - SGBD utilizado para o desenvolvimento do banco de dados da aplicação.
+
+#### Contribuições Pessoais
+
+Nesse projeto, atuei no Dev Team e desenvolvi .
+
+#### Hard Skills
+
+Exercitei as seguintes hard skills durante esse projeto:
+
+- Java - Uso com autonomia;
+- Spring Boot - Uso com autonomia;
+- Python - Uso com autonomia;
+- GoogleADK - Uso com autonomia.
+
+#### Soft Skills
+
+Durante esse projeto, .
