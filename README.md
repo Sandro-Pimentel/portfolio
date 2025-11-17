@@ -277,4 +277,4 @@ Exercitei as seguintes hard skills durante esse projeto:
 
 #### Soft Skills
 
-Durante esse projeto, usei de proatividade e comunicação para me comunicar com os integrantes 
+Durante esse projeto, usei de proatividade e comunicação para me comunicar com os integrantes visando garantir que todos os integrantes da equipe entendam os padrões de desenvolvimento e estrutura de pastas, também usei de colaboração no auxílio dos integrantes da equipe nas tarefas relacionadas a IA.
