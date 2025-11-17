@@ -242,9 +242,9 @@ Durante esse projeto, usei de autonomia nos casos em que não surgiam dúvidas, 
 
 **Empresa Parceira:** O projeto desenvolvido no sexto semestre do curso teve como empresa parceira a Xertica, uma empresa especializada em . Os requisitos foram apresentados no KickOff por uma pessoa da Xertica.
 
-**Problema:** O problema apresentado .
+**Problema:** O problema apresentado consistia na ausência de uma aplicação capaz de fornecer recomendações alimentares e planos alimentares personalizados.
 
-**Solução:** A solução desenvolvida foi .
+**Solução:** A solução desenvolvida foi uma aplicação web inovadora em nutrição digital, oferecendo um agente conversacional inteligente que funcione como um assistente nutricional acessível e personalizado. A plataforma busca simplificar o acompanhamento alimentar, fornecer recomendações confiáveis e promover hábitos saudáveis, auxiliando tanto indivíduos quanto profissionais da área.
 
 
 [GitHub - Junipy](https://github.com/Byte-Boost/Junipy)
@@ -257,14 +257,14 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 - TypeScript - Linguagem de programação utilizada no frontend;
 - Java - Linguagem de programação utilizada no backend;
 - Spring Boot - Framework utilizado no back-end para estruturar as rotas e facilitar a criação da API REST;
-- Python - ;
-- GoogleADK - ;
-- Vue.js - Biblioteca para construção das interfaces mobile, integrada ao TypeScript;
+- Python - Linguagem de programação utilizada para o desenvolvimento do agente;
+- GoogleADK - Framework modular da google utilizada para o desenvolvimento de agentes de IA;
+- Vue.js - Biblioteca para construção das interfaces web, integrada ao TypeScript;
 - MongoDB - SGBD utilizado para o desenvolvimento do banco de dados da aplicação.
 
 #### Contribuições Pessoais
 
-Nesse projeto, atuei no Dev Team e desenvolvi .
+Nesse projeto, atuei no Dev Team e trabalhei no desenvolvimento e refinamento do agente de dieta, na criação dos agentes orquestrador e de análise nutricional, além de desenvolver a estrutura de sub agentes do orquestrador.
 
 #### Hard Skills
 
@@ -277,4 +277,4 @@ Exercitei as seguintes hard skills durante esse projeto:
 
 #### Soft Skills
 
-Durante esse projeto, .
+Durante esse projeto, usei de proatividade e comunicação para me comunicar com os integrantes 
