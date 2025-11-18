@@ -146,7 +146,7 @@ Exercitei as seguintes hard skills durante esse projeto:
 
 #### Soft Skills
 
-Durante esse projeto, quando foi percebido que um item do sprint backlog não poderia ser desenvolvido no prazo, tive que usar de comunicação para negociar com o cliente. Ao conduzir as conversas, usei de empatia para entender suas dores e absorver as informações necessárias para o desenvolvimento do produto. Além disso, utilizei de autonomia para realizar tanto minhas tarefas como PO quanto minhas contribuições funcionais no produto.
+Durante esse projeto, quando percebeu-se que um item do sprint backlog não poderia ser desenvolvido no prazo, tive que usar de comunicação para negociar com o cliente. Ao conduzir as conversas, usei de empatia para entender suas dores e absorver as informações necessárias para o desenvolvimento do produto. Além disso, utilizei de autonomia para realizar tanto minhas tarefas como PO quanto minhas contribuições funcionais no produto.
 
 <hr>
 
@@ -234,13 +234,13 @@ Exercitei as seguintes hard skills durante esse projeto:
 
 #### Soft Skills
 
-Durante esse projeto, usei de autonomia nos casos em que não surgiam dúvidas, a fim de realizar minhas tarefas o mais rápido possível e auxiliar minha equipe. Já nos casos em que havia dúvidas, usei de proatividade para buscar conhecimento. Também foi necessária comunicação para expressar minhas dúvidas aos integrantes do time e compreender as soluções apresentadas.
+Durante esse projeto, usei de autonomia e proatividade ao buscar a conclusão de minhas tarefas o mais rápido possível e buscar a conhecimento para sua realização, afim de auxiliar minha equipe. Também foi necessária comunicação para expressar minhas dúvidas aos integrantes do time e compreender as soluções apresentadas.
 
 <hr>
 
 ### SEXTO SEMESTRE (2025-2)
 
-**Empresa Parceira:** O projeto desenvolvido no sexto semestre do curso teve como empresa parceira a Xertica, uma empresa especializada em . Os requisitos foram apresentados no KickOff por uma pessoa da Xertica.
+**Empresa Parceira:** O projeto desenvolvido no sexto semestre do curso teve como empresa parceira a Xertica, uma empresa especializada em soluções de inteligência artificial. Os requisitos foram apresentados no KickOff por uma pessoa da Xertica.
 
 **Problema:** O problema apresentado consistia na ausência de uma aplicação capaz de fornecer recomendações alimentares e planos alimentares personalizados.
 
@@ -264,7 +264,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 
 #### Contribuições Pessoais
 
-Nesse projeto, atuei no Dev Team e trabalhei no desenvolvimento e refinamento do agente de dieta, na criação dos agentes orquestrador e de análise nutricional, além de desenvolver a estrutura de sub agentes do orquestrador.
+Nesse projeto, atuei no Dev Team e trabalhei no desenvolvimento e refinamento do agente de dieta por meio de técnicas de engenharia de prompt. Também participei da criação dos agentes orquestrador e de análise nutricional utilizando Agent Development Kit (ADK) da google. Além disso, fui responsável pela implementação do sistema de multi agentes, onde o agente orquestrador recebe outros como subagentes.
 
 #### Hard Skills
 
@@ -277,4 +277,4 @@ Exercitei as seguintes hard skills durante esse projeto:
 
 #### Soft Skills
 
-Durante esse projeto, usei de proatividade e comunicação para me comunicar com os integrantes visando garantir que todos os integrantes da equipe entendam os padrões de desenvolvimento e estrutura de pastas, também usei de colaboração no auxílio dos integrantes da equipe nas tarefas relacionadas a IA.
+Durante esse projeto, quando percebeu-se que o código de serviço da aplicação possuia um padrão inconsistente e a arquitetura de pastas estava desorganizada, foi necessário usar de proatividade e comunicação para me comunicar com os integrantes visando garantir que todos da equipe entendessem os padrões de desenvolvimento e estrutura de pastas que deveriam ser seguidas no projeto, também usei de colaboração no auxílio dos integrantes da equipe nas tarefas relacionadas a IA.
