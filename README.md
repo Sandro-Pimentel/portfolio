@@ -260,7 +260,8 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 - Python - Linguagem de programação utilizada para o desenvolvimento do agente;
 - GoogleADK - Framework modular da google utilizada para o desenvolvimento de agentes de IA;
 - Vue.js - Biblioteca para construção das interfaces web, integrada ao TypeScript;
-- MongoDB - SGBD utilizado para o desenvolvimento do banco de dados da aplicação.
+- MongoDB - SGBD utilizado para o desenvolvimento do banco de dados da aplicação;
+- ChromaDB - Banco de Dados Vetorial utilizado para armazenar os embeddings dos documentos sobre nutrição e comorbidades.
 
 #### Contribuições Pessoais
 
