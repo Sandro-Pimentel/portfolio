@@ -242,7 +242,7 @@ Durante esse projeto, usei de autonomia e proatividade ao buscar a conclusão de
 
 **Empresa Parceira:** O projeto desenvolvido no sexto semestre do curso teve como empresa parceira a Xertica, uma empresa especializada em soluções de inteligência artificial. Os requisitos foram apresentados no KickOff por uma pessoa da Xertica.
 
-**Problema:** O problema apresentado consistia na ausência de uma aplicação capaz de fornecer recomendações alimentares e planos alimentares personalizados.
+**Problema:** O problema apresentado consistia na necessidade de uma maneira prática de ter contato com a nutrição.
 
 **Solução:** A solução desenvolvida foi uma aplicação web inovadora em nutrição digital, oferecendo um agente conversacional inteligente que funcione como um assistente nutricional acessível e personalizado. A plataforma busca simplificar o acompanhamento alimentar, fornecer recomendações confiáveis e promover hábitos saudáveis, auxiliando tanto indivíduos quanto profissionais da área.
 
