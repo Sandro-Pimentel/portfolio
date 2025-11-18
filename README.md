@@ -5,7 +5,7 @@
 <br>
 <br>
 
-Sou Sandro Roberto Pimentel Junior e tenho 20 anos. Iniciei meus estudos na área de programação em 2020, quando ingressei na ETEC em Desenvolvimento de Sistemas. Durante esse período tive contato com algumas linguagens, como Python, SQL e C#, porém o conhecimento adquirido foi superficial, então decidi ingressar na FATEC em Análise e Desenvolvimento de Sistemas para adquirir novos e aprofundar os conhecimentos prévios. 
+Sou Sandro Roberto Pimentel Junior e tenho 21 anos. Iniciei meus estudos na área de programação em 2020, quando ingressei na ETEC em Desenvolvimento de Sistemas. Durante esse período tive contato com algumas linguagens, como Python, SQL e C#, porém o conhecimento adquirido foi superficial, então decidi ingressar na FATEC em Análise e Desenvolvimento de Sistemas para adquirir novos e aprofundar os conhecimentos prévios. 
 Ainda procuro uma primeira oportunidade de estágio, porém durante a faculdade desenvolvi diversos projetos utilizando a metodologia scrum e trabalhando os conhecimentos desenvolvidos em aula.
 
 ## Contatos
@@ -176,7 +176,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 
 #### Contribuições Pessoais
 
-Nesse projeto, atuei no Dev Team e desenvolvi apenas a rota de login no backend com , pois meu foco foi o frontend, onde implementei algumas funções que consomem o backend, como buscar e editar usuários. Além disso, implementei os gráficos de setores e de colunas da aplicação.
+Nesse projeto, atuei no Dev Team e desenvolvi a rota de login no backend. Meu foco principal foi o frontend, onde implementei algumas funções que consomem o backend, como buscar e editar usuários. Além disso, implementei os gráficos de setores e de colunas da aplicação.
 
 #### Hard Skills
 
@@ -187,7 +187,7 @@ Nesse projeto, atuei no Dev Team e desenvolvi apenas a rota de login no backend 
 
 #### Soft Skills
 
-Durante esse projeto, usei de proatividade para buscar conhecimento sempre que surgiam dúvidas no desenvolvimento. Também foi necessária comunicação para expressar minhas dúvidas aos integrantes do time e compreender as soluções apresentadas.
+Durante esse projeto, usei de proatividade para buscar conhecimento sempre que surgiam dúvidas no desenvolvimento, principalmente para a criação dos gráficos. Também foi necessária comunicação para expressar minhas dúvidas aos integrantes do time em relação ao funcionamento do express no backend e compreender as soluções apresentadas.
 
 <hr>
 
