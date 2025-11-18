@@ -6,7 +6,7 @@
 <br>
 
 Sou Sandro Roberto Pimentel Junior e tenho 20 anos. Iniciei meus estudos na área de programação em 2020, quando ingressei na ETEC em Desenvolvimento de Sistemas. Durante esse período tive contato com algumas linguagens, como Python, SQL e C#, porém o conhecimento adquirido foi superficial, então decidi ingressar na FATEC em Análise e Desenvolvimento de Sistemas para adquirir novos e aprofundar os conhecimentos prévios. 
-Ainda procuro uma primeira oportunidade de estágio, 
+Ainda procuro uma primeira oportunidade de estágio, porém durante a faculdade desenvolvi diversos projetos utilizando a metodologia scrum e trabalhando os conhecimentos desenvolvidos em aula.
 
 ## Contatos
 
