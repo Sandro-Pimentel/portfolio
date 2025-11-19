@@ -256,10 +256,13 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 
 - TypeScript - Linguagem de programação utilizada no frontend;
 - Java - Linguagem de programação utilizada no backend;
-- Spring Boot - Framework utilizado no back-end para estruturar as rotas e facilitar a criação da API REST;
+- Maven - Ferramenta de automação de build do Java utilizado no backend;
+- Spring Boot - Framework utilizado no backend para estruturar as rotas e facilitar a criação da API REST;
 - Python - Linguagem de programação utilizada para o desenvolvimento do agente;
+- FastAPI - Framework para criação de api's utilizada no desenvolvimento das rotas de comunicação com o backend;
 - GoogleADK - Framework modular da google utilizada para o desenvolvimento de agentes de IA;
 - Vue.js - Biblioteca para construção das interfaces web, integrada ao TypeScript;
+- TailwindCSS - Framework de marcação utilizada no frontend;
 - MongoDB - SGBD utilizado para o desenvolvimento do banco de dados da aplicação;
 - ChromaDB - Banco de Dados Vetorial utilizado para armazenar os embeddings dos documentos sobre nutrição e comorbidades.
 
