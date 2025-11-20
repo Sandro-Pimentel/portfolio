@@ -146,13 +146,14 @@ Exercitei as seguintes hard skills durante esse projeto:
 
 #### Soft Skills
 
-Durante esse projeto, quando percebeu-se que um item do sprint backlog não poderia ser desenvolvido no prazo, tive que usar de comunicação para negociar com o cliente. Ao conduzir as conversas, usei de empatia para entender suas dores e absorver as informações necessárias para o desenvolvimento do produto. Além disso, utilizei de autonomia para realizar tanto minhas tarefas como PO quanto minhas contribuições funcionais no produto.
+Durante esse projeto, utilizei de autonomia para realizar tanto minhas tarefas como PO, desenvolvendo o backlog e interagindo com o cliente via Slack, quanto minhas contribuições funcionais no produto. Quando percebeu-se que o armazenamento dos dados em um SGBD não poderia ser desenvolvido na segunda sprint como previsto no backlog, tive que usar de comunicação para negociar com o cliente e adiar o item para a terceira sprint.
 
 <hr>
 
 ### QUARTO SEMESTRE (2024-2)
 
 **Empresa Parceira:** O projeto desenvolvido no quarto semestre do curso teve como empresa parceira a JJM LOG, uma empresa especializada em transporte e logística integrada. Os requisitos foram apresentados no KickOff por uma pessoa da JJM LOG.
+
 
 **Problema:** O problema apresentado consistia em dificuldades no gerenciamento logístico, devido à falta de integração e à comunicação falha entre os setores.
 
@@ -187,7 +188,7 @@ Nesse projeto, atuei no Dev Team e desenvolvi a rota de login no backend. Meu fo
 
 #### Soft Skills
 
-Durante esse projeto, usei de proatividade para buscar conhecimento sempre que surgiam dúvidas no desenvolvimento, principalmente para a criação dos gráficos. Também foi necessária comunicação para expressar minhas dúvidas aos integrantes do time em relação ao funcionamento do express no backend e compreender as soluções apresentadas.
+Durante esse projeto, usei de proatividade e trabalho em equipe para buscar conhecimento acerca do desenvolvimento dos gráficos com a biblioteca React-ApexChart e realizar a implementação deles em conjunto com outro integrante da equipe. Também foi necessária comunicação para expressar minhas dúvidas aos integrantes do time em relação ao funcionamento do express e sequelize no backend.
 
 <hr>
 
