@@ -67,7 +67,7 @@ Exercitei as seguintes hard skills durante esse projeto:
 
 #### Soft Skills
 
-Durante esse projeto, tive que usar de resiliência e proatividade para conseguir realizar as entregas, pois, no começo, poucos da equipe estavam comprometidos com o projeto. Além disso, foi necessário ter persistência, pois houve grande dificuldade na criação das telas de exame — principalmente na lógica de contabilizar os acertos —, o que resultou na ausência desse item do backlog para a terceira sprint. Porém, com o tempo da quarta sprint, foi possível direcionar um foco maior a essa tarefa e concluí-la antes que a última sprint acabasse.
+Durante esse projeto, houve grande dificuldade na criação das telas de exame utilizando javascript, principalmente na lógica de contabilização dos acertos, o que impossibilitou a entrega desse item do backlog para a terceira sprint. Foi necessário utilizar de flexibilidade e resiliência para buscar alternativas, identificar uma solução utilizando python e flask para, então, aplicá-la ao projeto.
 
 <hr>
 
@@ -106,7 +106,7 @@ Exercitei as seguintes hard skills durante esse projeto:
 
 #### Soft Skills
 
-Durante esse projeto, tive que usar de autonomia para realizar as tarefas, pois todas as ferramentas utilizadas nesse semestre eram novas para todos os integrantes. Portanto, foi necessário estudar por conta própria alguns conceitos de Java e da biblioteca Java Swing. Como resultado, boa parte das funções do backend já estava concluída ainda na primeira sprint. Além disso, precisei ser colaborativo para auxiliar os meus companheiros, que tiveram dificuldades em trabalhar com Java e Java Swing.
+Durante esse projeto, tive que usar de autonomia para realizar as tarefas, pois todas as ferramentas utilizadas nesse semestre eram novas para todos os integrantes. Portanto, foi necessário estudar por conta própria alguns conceitos da linguagem Java e da biblioteca Java Swing. Como resultado, boa parte das funções do backend já estavam concluídas ainda na primeira sprint. Além disso, precisei ser colaborativo para auxiliar os meus companheiros, que tiveram dificuldades em trabalhar com essas ferramentas.
 
 <hr>
 
