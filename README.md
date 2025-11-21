@@ -235,7 +235,7 @@ Exercitei as seguintes hard skills durante esse projeto:
 
 #### Soft Skills
 
-Durante esse projeto, usei de autonomia e proatividade ao buscar a conclusão de minhas tarefas o mais rápido possível e buscar a conhecimento para sua realização, afim de auxiliar minha equipe. Também foi necessária comunicação para expressar minhas dúvidas aos integrantes do time e compreender as soluções apresentadas.
+Durante esse projeto, usei de autonomia e proatividade ao buscar conhecimento acerca do desenvolvimento de uma documentação do backend com swagger. Também foi necessária comunicação para expressar minhas dúvidas aos integrantes do time com relação ao uso do sequelize no desenvolvimento do modelo.
 
 <hr>
 
