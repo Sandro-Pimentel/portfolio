@@ -265,7 +265,8 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 - Vue.js - Biblioteca para construção das interfaces web, integrada ao TypeScript;
 - TailwindCSS - Framework de marcação utilizada no frontend;
 - MongoDB - SGBD utilizado para o desenvolvimento do banco de dados da aplicação;
-- ChromaDB - Banco de Dados Vetorial utilizado para armazenar os embeddings dos documentos sobre nutrição e comorbidades.
+- ChromaDB - Banco de Dados Vetorial utilizado para armazenar os embeddings dos documentos sobre nutrição e comorbidades;
+- Docker -  Plataforma para construir, compartilhar e rodar aplicações em contâineres, utilizado para armazenar o backend da aplicação em um contêiner.
 
 #### Contribuições Pessoais
 
