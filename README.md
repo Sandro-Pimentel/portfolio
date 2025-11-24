@@ -270,7 +270,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 
 #### Contribuições Pessoais
 
-Nesse projeto, atuei no Dev Team e trabalhei no desenvolvimento e refinamento do agente de dieta por meio de técnicas de engenharia de prompt. Também participei da criação dos agentes orquestrador e de análise nutricional utilizando Agent Development Kit (ADK) da google. Além disso, fui responsável pela implementação do sistema de multi agentes, onde o agente orquestrador recebe outros como subagentes.
+Nesse projeto, atuei no Dev Team e trabalhei no desenvolvimento e refinamento do agente de dieta por meio de técnicas de engenharia de prompt e a criação dos agentes orquestrador e de análise nutricional utilizando Agent Development Kit (ADK) da google. Também participei do tratamento e inserção de documentos nutricionais no ChromaDB, banco de dados vetorial utilizado pela equipe. Além disso, fui responsável pela implementação do sistema de multi agentes, onde o agente orquestrador recebe outros como subagentes.
 
 #### Hard Skills
 
@@ -283,4 +283,4 @@ Exercitei as seguintes hard skills durante esse projeto:
 
 #### Soft Skills
 
-Durante esse projeto, quando percebeu-se que o código de serviço da aplicação possuia um padrão inconsistente e a arquitetura de pastas estava desorganizada, foi necessário usar de proatividade e comunicação para me comunicar com os integrantes visando garantir que todos da equipe entendessem os padrões de desenvolvimento e estrutura de pastas que deveriam ser seguidas no projeto, também usei de colaboração no auxílio dos integrantes da equipe nas tarefas relacionadas a IA.
+Durante esse projeto, quando percebeu-se que o código de serviço da aplicação possuia um padrão inconsistente e a arquitetura de pastas estava desorganizada, foi necessário usar de proatividade e comunicação para me comunicar com os integrantes visando garantir que todos da equipe entendessem os padrões de desenvolvimento e estrutura de pastas que deveriam ser seguidas no projeto, também usei de colaboração no auxílio dos integrantes da equipe nas tarefas de tratamento e inserção de documentos nutricionais no banco de dados vetorial.
