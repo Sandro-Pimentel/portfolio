@@ -33,9 +33,9 @@ Minha área de melhor domínio é o back-end, porém pretendo trabalhar como des
 
 **Empresa Parceira:** O projeto desenvolvido no primeiro semestre do curso teve como empresa parceira a própria Fatec. Os requisitos da empresa foram passados pelo professor Antonio Egydio que atuou como cliente final.
 
-**Problema:** O problema apresentado foi a dificuldade de entendimento dos alunos da fatec, no que se diz respeito à metodologia scrum, principalmente pela falta de exemplos práticos.
+**Problema:** O problema apresentado foi a dificuldade de entendimento dos alunos da fatec, no que diz respeito à metodologia scrum, principalmente pela falta de exemplos práticos.
 
-**Solução:** Como solução foi desenvolvida uma aplicação web que ensine a metodologia scrum de maneira intuitiva, com vídeos e exemplos práticos, sem deixar de lado o conteúdo escrito para os alunos que aprendem melhor por meio da leitura.
+**Solução:** Como solução foi desenvolvida uma aplicação web que pudesse ensinar a metodologia scrum de maneira intuitiva e em um formato de seções, com vídeos e exemplos práticos, sem deixar de lado o conteúdo escrito para os alunos que aprendem melhor por meio da leitura, um quiz ao final de cada seção e um quiz final para validar os conhecimentos aprendidos acerca da metodologia scrum.
 
 ![Projeto rodando](https://github.com/user-attachments/assets/9b6e582d-7d4d-475f-a7fa-6b3673eee165)
 
@@ -75,9 +75,9 @@ Durante esse projeto, houve grande dificuldade na criação das telas de exame u
 
 **Empresa Parceira:** O projeto desenvolvido no segundo semestre do curso teve como empresa parceira a própria Fatec. Os requisitos da empresa foram passados pelo professor Giuliano Bertoti que atuou como cliente final.
 
-**Problema:** O problema apresentado foi que apesar da inteligência artificial ser capaz de responder coisas relacionadas a assuntos gerais, ela não era capaz de responder perguntas em contextos mais específicos, como informações contidas em textos.
+**Problema:** O problema apresentado foi que, apesar da inteligência artificial ser capaz de responder perguntas relacionadas a assuntos gerais, ela não era capaz de responder perguntas em contextos mais específicos, como informações contidas em textos.
 
-**Solução:** Como solução foi desenvolvido um chat-bot que fosse capaz de responder perguntas extraindo informações de textos fornecidos pelo usuário a ele, fornecendo agilidade na busca de informações em documentos extensos.
+**Solução:** Como solução foi desenvolvido uma aplicação Java Desktop com um chatbot que fosse capaz de responder perguntas extraindo informações de textos fornecidos pelo pelo próprio usuário, em formato de txt, pdf ou doc, fornecendo agilidade na busca de informações em documentos extensos.
 
 
 [GitHub - ChatBot Lotus](https://github.com/VituuSaborito/Lotus)
@@ -114,9 +114,9 @@ Durante esse projeto, tive que usar de autonomia para realizar as tarefas, pois 
 
 **Empresa Parceira:** O projeto desenvolvido no segundo semestre do curso teve como empresa parceira a Pro4Tech, que oferece serviços de tranformação digital e IA. Os requisitos foram apresentados no KickOff por uma pessoa da Pro4Tech. 
 
-**Problema:** O problema apresentado consistia na dificuldade de analizar e armazenar informações de planilhas Excel em um volume muito alto.
+**Problema:** O problema apresentado consistia na dificuldade da empresa na análise e armazenamento de um grande número de informações de planilhas de vendas em Excel.
 
-**Solução:** A solução encontrada foi desenvolver um dashboard com uma interface que permite o envio de planilhas e a visualização em gráficos.
+**Solução:** A solução encontrada foi desenvolver uma aplicação web com um dashboard com uma interface que permite o envio de planilhas das vendas da empresa e a apresentação em gráficos dos seus lucros em diferentes filtros de visualização.
 
 
 [GitHub - CodeLotus](https://github.com/Code-Lotus/api-3)
@@ -177,7 +177,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 
 #### Contribuições Pessoais
 
-Nesse projeto, atuei no Dev Team e desenvolvi a rota de login no backend. Meu foco principal foi o frontend, onde implementei algumas funções que consomem o backend, como buscar e editar usuários. Além disso, implementei os gráficos de setores e de colunas da aplicação.
+Nesse projeto, atuei no Dev Team e desenvolvi a rota de login no backend utilizando express.js. Meu foco principal foi o frontend, onde implementei algumas funções que consomem o backend, como buscar e editar usuários fazendo uso da biblioteca axios. Além disso, criei os componentes dos gráficos de pizza e de coluna utilizando a biblioteca ReactApexCharts e os integrei à página principal da aplicação.
 
 #### Hard Skills
 
@@ -220,7 +220,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 
 #### Contribuições Pessoais
 
-Nesse projeto, atuei no Dev Team e desenvolvi a integração com o backend e as validações de reembolso no frontend. Já no backend, fui responsável pelo modelo e pelos endpoints dos projetos, utilizando Sequelize e Express.js, além de toda a documentação da API com o Swagger.
+Nesse projeto, atuei no Dev Team e no frontend desenvolvi a integração com o backend utilizando a biblioteca axios e as validações de reembolso da tela de solicitação com React-Native. Já no backend, fui responsável pela criação do modelo e pelos endpoints dos projetos, utilizando Sequelize e Express.js, além de toda a documentação da API com o Swagger.
 
 #### Hard Skills
 
