@@ -77,7 +77,7 @@ Durante esse projeto, houve grande dificuldade na criação das telas de exame u
 
 **Problema:** O problema apresentado foi que, apesar da inteligência artificial ser capaz de responder perguntas relacionadas a assuntos gerais, ela não era capaz de responder perguntas em contextos mais específicos, como informações contidas em textos de documentos.
 
-**Solução:** Como solução foi desenvolvido uma aplicação Java Desktop com um chatbot que fosse capaz de responder perguntas extraindo informações de textos fornecidos pelo pelo próprio usuário, em formato de txt, pdf ou doc, fornecendo agilidade na busca de informações em documentos extensos.
+**Solução:** Como solução foi desenvolvido uma aplicação Java Desktop com um chatbot que fosse capaz de responder perguntas extraindo informações de textos fornecidos pelo próprio usuário, em formato de txt, pdf ou doc, fornecendo agilidade na busca de informações em documentos extensos.
 
 
 [GitHub - ChatBot Lotus](https://github.com/VituuSaborito/Lotus)
@@ -114,9 +114,9 @@ Durante esse projeto, tive que usar de autonomia para realizar as tarefas, pois 
 
 **Empresa Parceira:** O projeto desenvolvido no segundo semestre do curso teve como empresa parceira a Pro4Tech, que oferece serviços de tranformação digital e IA. Os requisitos foram apresentados no KickOff por uma pessoa da Pro4Tech. 
 
-**Problema:** O problema apresentado consistia na dificuldade da empresa na análise e armazenamento de um grande número de informações de planilhas de vendas em Excel.
+**Problema:** O problema apresentado consistia na dificuldade da empresa na análise e armazenamento de um grande número de informações de planilhas de vendas em documentos no formato Excel.
 
-**Solução:** A solução encontrada foi desenvolver uma aplicação web com um dashboard com uma interface que permite o envio de planilhas das vendas da empresa e a apresentação em gráficos dos seus lucros em diferentes filtros de visualização, como por tempo, preço e produto.
+**Solução:** A solução encontrada foi desenvolver uma aplicação web com um dashboard contendo uma interface que permite o envio de planilhas das vendas da empresa e a apresentação em gráficos dos seus lucros em diferentes filtros de visualização, como por tempo, preço e produto.
 
 
 [GitHub - CodeLotus](https://github.com/Code-Lotus/api-3)
@@ -155,9 +155,9 @@ Durante esse projeto, utilizei de autonomia para realizar tanto minhas tarefas c
 **Empresa Parceira:** O projeto desenvolvido no quarto semestre do curso teve como empresa parceira a JJM LOG, uma empresa especializada em transporte e logística integrada. Os requisitos foram apresentados no KickOff por uma pessoa da JJM LOG.
 
 
-**Problema:** O problema apresentado consistia na dificuldade da empresa no gerenciamento logístico, devido à falta de integração e à comunicação falha entre os setores.
+**Problema:** O problema apresentado consistia na dificuldade da empresa no gerenciamento logístico, principalmente no gerenciamento de tickets, devido à falta de integração e à comunicação falha entre os setores.
 
-**Solução:** A solução desenvolvida foi uma plataforma integrada que centraliza funções essenciais da rotina empresarial entre todos os setores da empresa por meio do gerenciamento de tickets, arquivos e visualização de dashboards, melhorando assim a organização e comunicação interna.
+**Solução:** A solução desenvolvida foi uma plataforma integrada que centraliza funções essenciais da rotina empresarial entre todos os setores da empresa por meio do gerenciamento de tickets, arquivos e visualização de dashboards, melhorando assim, a organização e comunicação interna.
 
 
 [GitHub - WeCollab](https://github.com/Byte-Boost/WeCollab)
@@ -177,7 +177,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 
 #### Contribuições Pessoais
 
-Nesse projeto, atuei no Dev Team e desenvolvi a rota de login no backend utilizando express.js. Meu foco principal foi o frontend, onde implementei algumas funções que consomem o backend, como buscar e editar usuários fazendo uso da biblioteca axios. Além disso, criei os componentes dos gráficos de pizza e de coluna utilizando a biblioteca ReactApexCharts e os integrei à página principal da aplicação.
+Nesse projeto, atuei no Dev Team e desenvolvi a rota de login no backend utilizando express.js. Meu foco principal foi o frontend, onde implementei algumas funções que consomem o backend, como buscar e editar usuários fazendo uso da biblioteca axios. Além disso, criei os componentes dos gráficos de setor e de coluna utilizando a biblioteca ReactApexCharts e os integrei à página principal da aplicação.
 
 #### Hard Skills
 
@@ -196,9 +196,9 @@ Durante esse projeto, usei de proatividade e trabalho em equipe para buscar conh
 
 **Empresa Parceira:** O projeto desenvolvido no quinto semestre do curso teve como empresa parceira a GSW, uma empresa especializada em desenvolvimento e implantação de soluções para empresas. Os requisitos foram apresentados no KickOff por uma pessoa da GSW.
 
-**Problema:** O problema apresentado consistia na gestão ineficiente de reembolsos e despesas por conta da utilização de processos manuais e falta de integração.
+**Problema:** O problema apresentado consistia na gestão ineficiente de reembolsos e despesas por conta da falta de integração e inserção manual tanto de documentos comprobatórios(notas fiscais, recibos), como de pedidos de reembolso.
 
-**Solução:** A solução desenvolvida foi uma aplicação móvel que permite aos funcionários a capacidade de cadastrar despesas para receberem seus reembolsos. A aplicação também conta com uma versão web para gestores, premitindo gerenciamento dos funcionários, projetos e seus reembolsos, bem como com uma funcionalidade de aprovação ou reprovação de um reembolso.
+**Solução:** A solução desenvolvida foi uma aplicação móvel que permite aos funcionários a capacidade de cadastrar despesas para receberem seus reembolsos e a inserção de documentos comprobatórios dos mesmos. A aplicação também conta com uma versão web para gestores, permitindo gerenciamento dos funcionários, projetos e seus reembolsos, bem como com uma funcionalidade de aprovação ou reprovação de um reembolso.
 
 
 [GitHub - ExpenseFlow](https://github.com/Byte-Boost/ExpenseFlow)
@@ -220,7 +220,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 
 #### Contribuições Pessoais
 
-Nesse projeto, atuei no Dev Team e no frontend desenvolvi a integração com o backend utilizando a biblioteca axios e as validações de reembolso da tela de solicitação com React-Native. Já no backend, fui responsável pela criação do modelo e pelos endpoints dos projetos, utilizando Sequelize e Express.js, além de toda a documentação da API com o Swagger.
+Nesse projeto, atuei no Dev Team com participação no frontend, onde desenvolvi a integração com o backend utilizando a biblioteca axios e as validações de reembolso da tela de solicitação com React-Native. Já no backend, fui responsável pela criação do modelo e pelos endpoints dos projetos, utilizando Sequelize e Express.js, além de desenvolver toda a documentação da API com o Swagger.
 
 #### Hard Skills
 
