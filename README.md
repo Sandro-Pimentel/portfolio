@@ -116,7 +116,7 @@ Durante esse projeto, tive que usar de autonomia para realizar as tarefas, pois 
 
 **Problema:** O problema apresentado consistia na dificuldade da empresa na análise e armazenamento de um grande número de informações de planilhas de vendas em Excel.
 
-**Solução:** A solução encontrada foi desenvolver uma aplicação web com um dashboard com uma interface que permite o envio de planilhas das vendas da empresa e a apresentação em gráficos dos seus lucros em diferentes filtros de visualização.
+**Solução:** A solução encontrada foi desenvolver uma aplicação web com um dashboard com uma interface que permite o envio de planilhas das vendas da empresa e a apresentação em gráficos dos seus lucros em diferentes filtros de visualização, como por tempo, preço e produto.
 
 
 [GitHub - CodeLotus](https://github.com/Code-Lotus/api-3)
@@ -155,9 +155,9 @@ Durante esse projeto, utilizei de autonomia para realizar tanto minhas tarefas c
 **Empresa Parceira:** O projeto desenvolvido no quarto semestre do curso teve como empresa parceira a JJM LOG, uma empresa especializada em transporte e logística integrada. Os requisitos foram apresentados no KickOff por uma pessoa da JJM LOG.
 
 
-**Problema:** O problema apresentado consistia em dificuldades no gerenciamento logístico, devido à falta de integração e à comunicação falha entre os setores.
+**Problema:** O problema apresentado consistia na dificuldade da empresa no gerenciamento logístico, devido à falta de integração e à comunicação falha entre os setores.
 
-**Solução:** A solução desenvolvida foi uma plataforma integrada que centraliza funções essenciais da rotina empresarial e melhora a organização e comunicação interna.
+**Solução:** A solução desenvolvida foi uma plataforma integrada que centraliza funções essenciais da rotina empresarial entre todos os setores da empresa por meio do gerenciamento de tickets, arquivos e visualização de dashboards, melhorando assim a organização e comunicação interna.
 
 
 [GitHub - WeCollab](https://github.com/Byte-Boost/WeCollab)
@@ -196,9 +196,9 @@ Durante esse projeto, usei de proatividade e trabalho em equipe para buscar conh
 
 **Empresa Parceira:** O projeto desenvolvido no quinto semestre do curso teve como empresa parceira a GSW, uma empresa especializada em desenvolvimento e implantação de soluções para empresas. Os requisitos foram apresentados no KickOff por uma pessoa da GSW.
 
-**Problema:** O problema apresentado consistia na gestão ineficiente de reembolsos e despesas por conta de processos manuais e falta de integração.
+**Problema:** O problema apresentado consistia na gestão ineficiente de reembolsos e despesas por conta da utilização de processos manuais e falta de integração.
 
-**Solução:** A solução desenvolvida foi uma aplicação móvel que permite os funcionários cadastrar despesas para receberem seus reembolsos.
+**Solução:** A solução desenvolvida foi uma aplicação móvel que permite aos funcionários a capacidade de cadastrar despesas para receberem seus reembolsos. A aplicação também conta com uma versão web para gestores, premitindo gerenciamento dos funcionários, projetos e seus reembolsos, bem como com uma funcionalidade de aprovação ou reprovação de um reembolso.
 
 
 [GitHub - ExpenseFlow](https://github.com/Byte-Boost/ExpenseFlow)
@@ -243,9 +243,9 @@ Durante esse projeto, usei de autonomia e proatividade ao buscar conhecimento ac
 
 **Empresa Parceira:** O projeto desenvolvido no sexto semestre do curso teve como empresa parceira a Xertica, uma empresa especializada em soluções de inteligência artificial. Os requisitos foram apresentados no KickOff por uma pessoa da Xertica.
 
-**Problema:** O problema apresentado consistia na necessidade de uma maneira prática de ter contato com a nutrição.
+**Problema:** O problema apresentado consistia na necessidade de uma maneira prática de aproximar a nutrição da vida cotidiana das pessoas.
 
-**Solução:** A solução desenvolvida foi uma aplicação web inovadora em nutrição digital, oferecendo um agente conversacional inteligente que funcione como um assistente nutricional acessível e personalizado. A plataforma busca simplificar o acompanhamento alimentar, fornecer recomendações confiáveis e promover hábitos saudáveis, auxiliando tanto indivíduos quanto profissionais da área.
+**Solução:** A solução desenvolvida foi uma aplicação web inovadora em nutrição digital, oferecendo um agente conversacional inteligente que funcione como um assistente nutricional acessível e personalizado. A plataforma busca simplificar o acompanhamento alimentar, fornecer recomendações confiáveis e promover hábitos saudáveis, auxiliando pacientes na resolução de dúvidas relacionadas à comorbidades e nutrição, além da geração de dietas personalizadas, levando em conta os dados nutricionais de cada paciente.
 
 
 [GitHub - Junipy](https://github.com/Byte-Boost/Junipy)
