@@ -75,7 +75,7 @@ Durante esse projeto, houve grande dificuldade na criação das telas de exame u
 
 **Empresa Parceira:** O projeto desenvolvido no segundo semestre do curso teve como empresa parceira a própria Fatec. Os requisitos da empresa foram passados pelo professor Giuliano Bertoti que atuou como cliente final.
 
-**Problema:** O problema apresentado foi que, apesar da inteligência artificial ser capaz de responder perguntas relacionadas a assuntos gerais, ela não era capaz de responder perguntas em contextos mais específicos, como informações contidas em textos.
+**Problema:** O problema apresentado foi que, apesar da inteligência artificial ser capaz de responder perguntas relacionadas a assuntos gerais, ela não era capaz de responder perguntas em contextos mais específicos, como informações contidas em textos de documentos.
 
 **Solução:** Como solução foi desenvolvido uma aplicação Java Desktop com um chatbot que fosse capaz de responder perguntas extraindo informações de textos fornecidos pelo pelo próprio usuário, em formato de txt, pdf ou doc, fornecendo agilidade na busca de informações em documentos extensos.
 
